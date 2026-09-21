@@ -1,0 +1,6 @@
+rerun-sdk
+pyarrow
+typing-extensions
+do-mpc
+casadi
+osqp
